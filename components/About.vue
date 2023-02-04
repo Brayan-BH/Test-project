@@ -65,7 +65,7 @@
                     </div>
                 </div>
                 <div class="img-fluid">
-                    <img src="img/caracteristicas/about-img.jpg" class="img-fluid" alt="">
+                    <img src="/img/caracteristicas/about-img.jpg" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
